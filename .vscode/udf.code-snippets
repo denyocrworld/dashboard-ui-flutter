@@ -1,0 +1,6 @@
+{
+  "mainColor": {
+    "prefix": "mainColor",
+    "body": "color: Color(0xff0f9565),"
+  }
+}
